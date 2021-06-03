@@ -36,5 +36,16 @@ As in the figure below, the R gates represent the parametrized single qubit rota
 
 <img src="resources/ansatz.png" width=700 height= 300/>
 
-Given a Hermitian operator H, with an unknown minimum eigenvalue E<sub>min</min>, associated with the eigenstate \psi,  VQE provides an estimate E\theta, bounded by E<sub>min</min>:
+Given a Hermitian operator H, the minimum energy can be calculated using below equation:
+
+
+<img src="resources/Min_Energy.PNG" width=300 height= 65/>
+
+### Results
+
+Exact electronic ground state energy for Lithium Hydride is : -1.08871
+Calculated ground state energy for Lithium Hydride using VQE is : -1.08611
+Percentage Error in calculating Ground state energy is : 0.24%
+
+Graph of Energy VS Iterations is shown below:
 
