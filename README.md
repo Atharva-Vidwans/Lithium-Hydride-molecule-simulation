@@ -49,3 +49,4 @@ Percentage Error in calculating Ground state energy is : 0.24%
 
 Graph of Energy VS Iterations is shown below:
 
+<img src="resources/graph.PNG" width=500 height= 300/>
