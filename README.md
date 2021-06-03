@@ -1,1 +1,1 @@
-# Lithium-Hydride-molecule-simulation
+# Lithium Hydride molecule simulation
